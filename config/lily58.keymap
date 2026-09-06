@@ -47,7 +47,7 @@
                              &kp LALT  &mo 1   &kp LEFT_GUI  &kp RETURN    &kp SPACE   &rfn_rfnlock  &kp BSPC  &kp RGUI
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_DOWN K_SCROLL_UP>;
         };
 
         left_layer {
