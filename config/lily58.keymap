@@ -17,7 +17,7 @@
             #binding-cells = <0>;
             bindings = <&kp LSHFT>, <&kp CAPSLOCK>;
 
-            tapping-term-ms = <125>;
+            tapping-term-ms = <135>;
         };
 
         rfn_rfnlock: rfn_rfnlock {
@@ -26,7 +26,7 @@
             #binding-cells = <0>;
             bindings = <&mo 2>, <&tog 2>;
 
-            tapping-term-ms = <125>;
+            tapping-term-ms = <135>;
         };
     };
 
